@@ -3,7 +3,6 @@
 #to open the web browser:
 #streamlit run data_analysis.py --server.enableCORS false --server.enableXsrfProtection false
 
-import altair as alt
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
